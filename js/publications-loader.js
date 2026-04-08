@@ -19,6 +19,13 @@ document.addEventListener("DOMContentLoaded", () => {
         .map(Number)
         .sort((a, b) => b - a);
 
+      const jumpLinks = document.querySelector("#jump-links");
+      if (jumpLinks) {
+        jumpLinks.innerHTML = years
+          .map(y => `<a href="#${y}">${y}</a>`)
+          .join("");
+      }
+
       years.forEach((year) => {
         const section = document.createElement("section");
         section.classList.add("publication-year-section");
