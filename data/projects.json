@@ -24,9 +24,9 @@
     "image": "img/projects/pathways.png"
   },
   {
-    "title": "AI for Teachers",
+    "title": "Global AI for Teachers",
     "description": "Teachers in the Global South face major hurdles in lesson preparation due to limited time, staff shortages, large class sizes, and scarce resources. While LLMs offer promise, mainstream chatbots often lack vernacular support, contextual relevance, and flexibility to teachers' needs. This highlights the need for specialized AI tools. In collaboration with Microsoft Research India, we evaluate Shiksha Copilot, an AI system designed to support Indian teachers in content creation and explore its impact on their work practices.",
-    "link": "",
+    "link": "https://globalai.ai.cornell.edu/",
     "image": "img/projects/ai_for_teachers.png"
   },
   {

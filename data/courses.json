@@ -22,7 +22,7 @@
     "links": [
       {
         "label": "Course Page",
-        "link": "https://learning.cis.cornell.edu/courses/"
+        "link": "https://classes.cornell.edu/browse/roster/SP26/class/INFO/4100"
       }
     ],
     "tags": ["Learning Science", "Data Science", "Active Learning"]
@@ -49,12 +49,12 @@
     "code": "INFO 6750",
     "title": "Causal Inference and Design of Experiments",
     "professor": "Prof. Rene Kizilcec",
-    "description": "The National Tutoring Observatory is building a research infrastructure for education to advance the science and practice of instruction. By partnering with a range of tutoring providers, the NTO will create the world's largest repository of video and transcript data about tutoring interactions. We will create a Million Tutor Moves dataset that records at least one million interactions between teachers and students across a range of subjects, grade levels, and educational contexts.",
+    "description": "Introductory seminar on research methods for addressing causal questions in observational and experimental settings. The course focuses on three topics: methods for causal inference (potential outcomes framework, experimental and quasi-experimental designs, matching), the design of experiments (between-/within-subjects designs, blocking, statistical power), and approaches to open science (replication, pre-registration). Students learn (i) key methodological skills for drawing credible causal conclusions from observational and (quasi-)experimental data, and (ii) how to present these scientific methods, results, and warranted conclusions.",
     "image": "img/courses/info-6750.jpg",
     "links": [
       {
         "label": "Course Page",
-        "link": "https://learning.cis.cornell.edu/courses/"
+        "link": "https://classes.cornell.edu/browse/roster/FA18/class/INFO/6750"
       }
     ],
     "tags": ["Causal Inference", "Statistics", "Research Methods"]
