@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Page Not Found - Future of Learning Lab</title>
+  <script>
+    var path = window.location.pathname;
+    if (path !== "/" && path.endsWith("/")) {
+      window.location.replace(
+        window.location.origin + path.slice(0, -1) + window.location.search + window.location.hash
+      );
+    }
+  </script>
+</head>
+<body>
+  <p>Page not found. <a href="/">Return to homepage</a>.</p>
+</body>
+</html>
