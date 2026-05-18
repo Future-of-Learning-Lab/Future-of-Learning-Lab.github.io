@@ -4,7 +4,7 @@
     "title": "Teacher-AI Collaboration for Curating and Customizing Lesson Plans in Low-Resource Schools",
     "authors": "Dennison, D. V., Ahtisham, B., Chourasia, K., Arora, N., Singh, R., Kizilcec, R. F., Nambi, A., Ganu, T., & Vashistha, A. (2026).",
     "details": "Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2026).",
-    "link": "",
+    "link": "https://arxiv.org/abs/2507.00456",
     "award": false
   },
   {
@@ -12,7 +12,7 @@
     "title": "Designing Culturally Aligned AI Systems For Social Good in Non-Western Contexts",
     "authors": "Dennison, D. V., Jain, M., Ganu, T., & Vashistha, A. (2026).",
     "details": "In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 2026).",
-    "link": "",
+    "link": "https://arxiv.org/abs/2509.16158",
     "award": false
   },
   {
@@ -20,7 +20,7 @@
     "title": "MedSimAI: Simulation and formative feedback generation to enhance deliberate practice in medical education",
     "authors": "Hicke, Y., Geathers, J., Vu, K., Sewell, J., Cardie, C., Talwalkar, J., Shung, D., Jack, A. G., Cornes, S., Preston, M., & Kizilcec, R. F. (2026).",
     "details": "In Proceedings of the International Conference on Learning Analytics and Knowledge (LAK 2026).",
-    "link": "",
+    "link": "https://arxiv.org/abs/2503.05793",
     "award": false
   },
   {
@@ -36,7 +36,7 @@
     "title": "The Digital Divide with Generative AI: Examining LLM Adoption and Lexical Convergence Across Socioeconomic Groups in College Admissions Essays",
     "authors": "Lee, J., Bochers, C., Alvero, A. J., Joachims, T., & Kizilcec, R. F. (2026).",
     "details": "Stanford Education Data Science Conference (under review).",
-    "link": "",
+    "link": "https://arxiv.org/abs/2602.17791",
     "award": false
   },
   {
@@ -44,7 +44,7 @@
     "title": "AI Annotation Orchestration: Evaluating LLM Verifiers to Improve the Quality of LLM Annotations in Learning Analytics",
     "authors": "Ahtisham, B., Vanacore, K., Lee, J., Zhou, Z., Pietrzak, D., & Kizilcec, R. F. (2026).",
     "details": "In Proceedings of the International Conference on Learning Analytics and Knowledge (LAK 2026).",
-    "link": "",
+    "link": "https://arxiv.org/abs/2511.09785",
     "award": false
   },
   {
@@ -52,7 +52,7 @@
     "title": "Digital accents, homogeneity-by-design, and the evolving social science of written language",
     "authors": "Alvero, A. J., Sedlacek, Q., León, M., & Peña, C. (2025).",
     "details": "Annual Review of Applied Linguistics.",
-    "link": "",
+    "link": "https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/digital-accents-homogeneitybydesign-and-the-evolving-social-science-of-written-language/6F0DF411B71E82778B88F99F6E81FFBD",
     "award": false
   },
   {
@@ -60,7 +60,7 @@
     "title": "Using Machine Learning to Scrutinize Parole Release Hearings",
     "authors": "Bell, K., Hong, J., Voss, C., Todd, G., & Alvero, A. J. (2025).",
     "details": "Berkeley Technology Law Journal.",
-    "link": "",
+    "link": "https://btlj.org/wp-content/uploads/2025/03/40-1_Bell.pdf",
     "award": false
   },
   {
@@ -68,7 +68,7 @@
     "title": "Generative AI in Sociological Research: State of the Discipline",
     "authors": "Alvero, A. J., Stoltz, D., Stuhler, O., & Taylor, M. (2025).",
     "details": "Sociological Science.",
-    "link": "",
+    "link": "https://arxiv.org/abs/2511.16884",
     "award": false
   },
   {
@@ -76,7 +76,7 @@
     "title": "Disaggregating Hispanic Data for Sharper Insights into College Admission Patterns",
     "authors": "Alvero, A. J. (2025).",
     "details": "The Hispanic Outlook on Education Magazine.",
-    "link": "",
+    "link": "https://www.hispanicoutlook.com/articles/disaggregating-hispanic-data-for-sharper-insights-into-college-admission-patterns",
     "award": false
   },
   {
@@ -100,7 +100,7 @@
     "title": "A Framework for Auditing Chatbots for Dialect-Based Quality-of-Service Harms",
     "authors": "Harvey, E., Kizilcec, R. F., & Koenecke, A. (2025).",
     "details": "In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025).",
-    "link": "",
+    "link": "https://arxiv.org/abs/2506.04419",
     "award": false
   },
   {
@@ -108,7 +108,7 @@
     "title": "\"Don't Forget the Teachers\": Towards an Educator-Centered Understanding of Harms from Large Language Models in Education",
     "authors": "Harvey, E., Koenecke, A., & Kizilcec, R. F. (2025).",
     "details": "In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 2025).",
-    "link": "",
+    "link": "https://arxiv.org/abs/2502.14592",
     "award": false
   },
   {
@@ -116,7 +116,7 @@
     "title": "Evaluating an AI Tutor for Bias Across Different Foundation Models",
     "authors": "Vinodh, A., Harvey, E., Almoubayyed, H., Yu, R., Brooks, C., Koenecke, A., & Kizilcec, R. F. (2025).",
     "details": "In Proceedings of the International Conference on Artificial Intelligence in Education (AIED 2025).",
-    "link": "",
+    "link": "https://dl.acm.org/doi/10.1007/978-3-031-98465-5_43",
     "award": false
   },
   {
@@ -124,7 +124,7 @@
     "title": "Understanding Predictive Models of Student Success with a Multiverse Analysis",
     "authors": "Tang, Y., Harvey, E., Yao, C., Yu, R., & Kizilcec, R. F. (2025).",
     "details": "In Proceedings of the International Conference on Educational Data Mining (EDM 2025).",
-    "link": "",
+    "link": "https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.short-papers.193/index.html",
     "award": false
   },
   {
@@ -132,7 +132,7 @@
     "title": "Benchmarking Generative AI for Scoring Medical Student Interviews in Objective Structured Clinical Examinations (OSCEs)",
     "authors": "Geathers, J., Hicke, Y., Chan, C. E., Rajashekar, N., Sewell, J., Cornes, S., Kizilcec, R., & Shung, D. (2025).",
     "details": "In Proceedings of the International Conference on Artificial Intelligence in Education (AIED 2025).",
-    "link": "",
+    "link": "https://arxiv.org/abs/2501.13957",
     "award": false
   },
   {
