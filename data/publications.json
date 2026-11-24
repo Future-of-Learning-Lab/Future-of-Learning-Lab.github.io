@@ -1,6 +1,142 @@
 [
   {
     "year": 2026,
+    "title": "Generative AI use and misuse call for assessment reform in higher education",
+    "authors": "Chirikov, I., Smirnov, I., & Kizilcec, R. F. (2026).",
+    "details": "Science, 392(6800), 818–820.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "A practical implementation science framework for education",
+    "authors": "Allen, S. E., Bardach, L., Jirout, J., Mackey, A., McCoy, D., Pesando, L. M., & Kizilcec, R. F. (2026).",
+    "details": "npj Science of Learning. Advance online publication.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "Purpose-Affirmation: A Novel Intervention for Cultivating Adolescents’ Purpose in Life",
+    "authors": "Yan, W., Jiang, L., Wang, Y., Chen, Y., Wu, Y., & Kizilcec, R. F.. (2026).",
+    "details": "Journal of Happiness Studies, 27(7), 114.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "Inspection‑guided randomization: A flexible and transparent restricted randomization framework for better experimental design",
+    "authors": "Wang, M., Kizilcec, R. F., & Baiocchi, M. (2026).",
+    "details": "Journal of Educational and Behavioral Statistics, 51(3), 667–695.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "Does the TalkMoves codebook generalize to one-on-one tutoring and multimodal interaction?",
+    "authors": "Luca Focsan, C., Abijuru Kamikazi, M. C., Thompson, T., St. John, J., Vanacore, K. P., Thomas, D. R., Koedinger, K. R., & Kizilcec, R. F. (2026).",
+    "details": "In E. G. Blanchard, G. Chen, M. Chi, & S. Isotani (Eds.), Artificial intelligence in education (pp. 162–171). Springer.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "Data Annotation as Measurement",
+    "authors": "Harvey, E., Koenecke, A., & Kizilcec, R. F. (2026).",
+    "details": "In Proceedings of the 9th AAAI/ACM Conference on AI, Ethics, and Society (AIES ’26).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "Domain‑adapted retrieval for in‑context annotation of pedagogical dialogue acts",
+    "authors": "Lee, J., Vanacore, K., Zhou, Z., Ahtisham, B., & Kizilcec, R. F. (2026).",
+    "details": "In Proceedings of the 3rd Conference on Language Modeling (COLM ’26).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "The digital divide in generative AI: Evidence from large language model use in college admissions essays",
+    "authors": "Lee, J., Borchers, C., Alvero, A. J., Joachims, T., & Kizilcec, R. F. (2026).",
+    "details": "In Proceedings of the 13th ACM Conference on Learning@ Scale (L@S ’26).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "Who decides in AI‑mediated learning? The agency allocation framework",
+    "authors": "Borchers, C., Viberg, O., & Kizilcec, R. F. (2026).",
+    "details": "In Proceedings of the 13th ACM Conference on Learning@ Scale (L@S ’26).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "Does algorithmic uncertainty sway human experts? Evidence from a field experiment in selective college admissions",
+    "authors": "Lee, H., Alvero, A. J., Kizilcec, R. F., & Joachims, T. (2026).",
+    "details": "In Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’26).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "A large‑scale analysis of student behavior with pedagogically constrained LLM tutors",
+    "authors": "Liu, C., Hoang, L., Kizilcec, R. F., & Wu, B. (2026).",
+    "details": "In Proceedings of the 13th ACM Conference on Learning@ Scale (L@S ’26) (pp. 242–253).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "Comparing Teacher and AI-Generated Feedback in the Writing Classroom: Experimental Results from Secondary School Classrooms",
+    "authors": "Meyer, J., Steinbach, M., Schiller, R., Mertens, U., Schaller, N.‑J., Horbach, A., Fleckenstein, J., Köller, O., Kizilcec, R. F., & Jansen, T. (2026).",
+    "details": "In Proceedings of the 13th ACM Conference on Learning@ Scale (L@S ’26).",
+    "link": "",
+    "award": true
+  },
+  {
+    "year": 2026,
+    "title": "Modernizing ground truth: Four shifts toward improving reliability and validity in AI in education",
+    "authors": "Thomas, D. R., Borchers, C., Vanacore, K. P., Koedinger, K. R., & Kizilcec, R. F. (2026).",
+    "details": "In Proceedings of the 20th International Conference on Artificial Intelligence in Education (AIED 2026) (pp. 117–131).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "How well do large language models recognize instructional moves? Establishing baselines for foundation models in educational discourse",
+    "authors": "Vanacore, K., & Kizilcec, R. F. (2026).",
+    "details": "In Proceedings of the 13th ACM Conference on Learning@ Scale (L@S ’26).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "From tutor moves to tutoring states: Modeling the timing and sequencing of pedagogical strategies for student engagement",
+    "authors": "Vanacore, K., Lee, J., Ahtisham, B., Shaw, S., Reich, J., & Kizilcec, R. F. (2026).",
+    "details": "In Proceedings of the 13th ACM Conference on Learning@ Scale (L@S ’26) (pp. 339–349).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "Redact or keep? A fully local AI cascade for educational dialogue de‑identification",
+    "authors": "Zhang, H., Zhou, Z., Vanacore, K., Ahtisham, B., & Kizilcec, R. F. (2026).",
+    "details": "In Proceedings of the Special Day on AI for Education at the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
+    "title": "Teachers’ perceived benefits and risks of AI across fifty‑five countries: An audit of LLM alignment and steerability",
+    "authors": "Tao, Y., Viberg, O., Dennison, D. V., Wu, Z., & Kizilcec, R. F. (2026).",
+    "details": "In Proceedings of the 13th ACM Conference on Learning@ Scale (L@S ’26)",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2026,
     "title": "Teacher-AI Collaboration for Curating and Customizing Lesson Plans in Low-Resource Schools",
     "authors": "Dennison, D. V., Ahtisham, B., Chourasia, K., Arora, N., Singh, R., Kizilcec, R. F., Nambi, A., Ganu, T., & Vashistha, A. (2026).",
     "details": "Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2026).",
@@ -45,6 +181,94 @@
     "authors": "Ahtisham, B., Vanacore, K., Lee, J., Zhou, Z., Pietrzak, D., & Kizilcec, R. F. (2026).",
     "details": "In Proceedings of the International Conference on Learning Analytics and Knowledge (LAK 2026).",
     "link": "https://arxiv.org/abs/2511.09785",
+    "award": false
+  },
+  {
+    "year": 2025,
+    "title": "Restorative justice appeals trump retributive vigilance on social media",
+    "authors": "Zhao, P., Bazarova, N. N., Bae, I., Hui, W., Kizilcec, R. F., & Margolin, D. (2025).",
+    "details": "PNAS Nexus, 4(9), pgaf255.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2025,
+    "title": "Beyond ad hominem attacks: A typology of the discursive tactics used when objecting to news commentary on social media",
+    "authors": "Shea, A. L., Omapang, A. K. B., Cho, J. Y., Ginsparg, M. Y., Bazarova, N. N., Hui, W., Kizilcec, R. F., Tong, C., & Margolin, D. B. (2025).",
+    "details": "PLoS ONE, 20(8), e0328550.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2025,
+    "title": "Effects of accountability interventions on environmental educators’ engagement in MOOCs",
+    "authors": "Li, Y., Kizilcec, R. F., Cho, J. Y., & Krasny, M. E. (2025).",
+    "details": "Online Learning, 29(4), 25–51.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2025,
+    "title": "Usability and adoption in a randomized trial of GutGPT: A GenAI tool for gastrointestinal bleeding",
+    "authors": "Chung, S., Giuffrè, M., Rajashekar, N., Pu, Y., Shin, Y. E., Kresevic, S., Chan, C., Nakamura-Sakai, S., You, K., Saarinen, T., et al. (2025).",
+    "details": "npj Digital Medicine, 8(1), 527.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2025,
+    "title": "Effects of generative artificial intelligence on cognitive effort and task performance: Study protocol for a randomized controlled experiment among college students",
+    "authors": "Chen, Y., Wang, Y., Wüstenberg, T., Kizilcec, R. F., Fan, Y., Li, Y., Lu, B., Yuan, M., Zhang, J., Zhang, Z., et al. (2025).",
+    "details": "Trials, 26(1), 244.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2025,
+    "title": "Randomized controlled trial evaluating the efficacy of human–generative artificial intelligence teaming on technology acceptance, usability, and trust: The Gut-GPT simulation study",
+    "authors": "Chung, S., Rajashekar, N., Pu, Y., Shin, Y. E., Giuffrè, M., Chan, C., You, K., Saarinen, T., Hsiao, A., Sekhon, J., et al. (2025).",
+    "details": "Gastroenterology, 169(1), S173.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2025,
+    "title": "When the past misleads: Rethinking training data expansion under temporal distribution shifts",
+    "authors": "Yao, C., Tang, Y., Brooks, C., Kizilcec, R. F., & Yu, R. (2025).",
+    "details": "In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 2760–2771).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2025,
+    "title": "Fairness over time: A nationwide study of evolving bias in dropout prediction",
+    "authors": "Blazkova, T., Kizilcec, R. F., Nielsen, M. L., Lassen, D. D., & Bjerre-Nielsen, A. (2025).",
+    "details": "In Proceedings of the 12th ACM Conference on Learning@ Scale (pp. 246–250).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2025,
+    "title": "Understanding student engagement with large language model-powered course assistants",
+    "authors": "Liu, C., Hoang, L., Stolman, A., Kizilcec, R. F., & Wu, B. (2025).",
+    "details": "In Proceedings of the International Conference on Artificial Intelligence in Education (pp. 3–10). Springer.",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2025,
+    "title": "Applying DebiasEd: A package for mitigating unfairness in educational data",
+    "authors": "Cock, J., Stinar, F., Kizilcec, R. F., & Kaser, T. (2025).",
+    "details": "In Proceedings of the 18th International Conference on Educational Data Mining (pp. 695–698).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2025,
+    "title": "Algorithm Appreciation in Education: Educators Prefer Complex over Simple Algorithms",
+    "authors": "Williamson, K. H., Kizilcec, R. F., Fath, S., & Heffernan, N. (2025).",
+    "details": "In Proceedings of the ACM Conference on Learning Analytics and Knowledge (LAK).",
+    "link": "",
     "award": false
   },
   {
@@ -164,6 +388,14 @@
     "title": "What medical students need from simulation: Insights to guide scalable learning design",
     "authors": "Geathers, J., Hicke, Y., Kongsonthana, N., Sewell, J., Jack, A. G., Shung, D., Cornes, S., & Kizilcec, R. F. (2025).",
     "details": "In Proceedings of the ACM Conference on Learning at Scale (L@S 2025).",
+    "link": "",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Improving Social Justice should be an Objective of Learning Analytics Research",
+    "authors": "Williamson, K. H., Guerrero, V., & Kizilcec, R. F. (2024).",
+    "details": "Journal of Learning Analytics.",
     "link": "",
     "award": false
   },
@@ -370,7 +602,7 @@
   {
     "year": 2024,
     "title": "Artificial Communication and Media Realism in College Admissions",
-    "authors": "Mu\u00f1oz-Najar Galvez, S., Lee, J., Alvero, AJ., Stewart, S., Kizilcec, R. F., & Desiderio, A. (2024).",
+    "authors": "Muñoz-Najar Galvez, S., Lee, J., Alvero, AJ., Stewart, S., Kizilcec, R. F., & Desiderio, A. (2024).",
     "details": "The Digitized Campus: Artificial Intelligence and Big Data in Higher Education.",
     "link": "",
     "award": false
