@@ -1,5 +1,21 @@
 [
   {
+    "year": 2027,
+    "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+    "authors": "Ahtisham, B., Vanacore, K. P., Napoli, A., Arens, J., Ionova, K., Cohn, C., Salehi, S., & Kizilcec, R. F. (2027).",
+    "details": "In Proceedings of the 17th International Conference on Learning Analytics and Knowledge (LAK27). Full research paper. Forthcoming.",
+    "link": "https://arxiv.org/abs/2609.38346",
+    "award": false
+  },
+  {
+    "year": 2027,
+    "title": "Agreement Is Not Validity: Cross-Model LLM Consensus in Diagnosing Student Failure Modes in K–12 Math Tutoring Dialogue",
+    "authors": "Cohn, C., Fonteles, J., Vanacore, K. P., Mazza, G., Crawford, C., Hooper, T., Biswas, G., & Kizilcec, R. F. (2027).",
+    "details": "In Proceedings of the 17th International Conference on Learning Analytics and Knowledge (LAK27). Short research paper. Forthcoming.",
+    "link": "",
+    "award": false
+  },
+  {
     "year": 2026,
     "title": "Generative AI use and misuse call for assessment reform in higher education",
     "authors": "Chirikov, I., Smirnov, I., & Kizilcec, R. F. (2026).",
